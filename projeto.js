@@ -18,13 +18,13 @@ if (xp <= 1000) {
     mensagem = "O Heroi de nome " + nomeDoHeroi + " esta no nivel de Platina "
 
 } else if (xp >= 8001 && xp <= 9000){
-    mensagem = "O Heroi de nome "+ nomeDoHeroi + " esta no nivel de Ascendente"
+    mensagem = "O Heroi de nome "+ nomeDoHeroi + " esta no nivel Ascendente"
 
 } else if (xp >= 9001 && xp <= 10000){
-    mensagem = "O Heroi de nome "+ nomeDoHeroi + " esta no nivel de Imortal"
+    mensagem = "O Heroi de nome "+ nomeDoHeroi + " esta no nivel Imortal"
 
 } else {
-    mensagem = "O Heroi de nome "+ nomeDoHeroi + "esta no nivel de Radiante"
+    mensagem = "O Heroi de nome "+ nomeDoHeroi + "esta no nivel Radiante"
 }
 
 console.log(mensagem);
