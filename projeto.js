@@ -1,5 +1,5 @@
 let nomeDoHeroi = "Zé";
-let xp = 100;
+let xp = 2100;
 let mensagem = " "
 
 if (xp <= 1000) {
