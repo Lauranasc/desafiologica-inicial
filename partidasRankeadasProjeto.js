@@ -1,5 +1,5 @@
 let saldoDeRankeadas = calculoDoSaldo(100, 5);
-let mensagem = " "
+let mensagem = " ";
 
 function calculoDoSaldo(vitorias, derrotas){
     let resultado = vitorias - derrotas;
