@@ -1,5 +1,5 @@
+let ataque;
 class heroi{
-        ataque = " ";
     constructor(nome, idade, tipo){
         this.nome = nome
         this.idade = idade
