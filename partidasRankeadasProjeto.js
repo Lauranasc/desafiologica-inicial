@@ -22,9 +22,9 @@ if (saldoDeRankeadas < 10){
      mensagem = "O Herói de saldo de " + saldoDeRankeadas + " está no nível de Diamante"
 
 } else if ( 91 <= saldoDeRankeadas && saldoDeRankeadas <= 100){
-     mensagem = "O Herói de saldo de " + saldoDeRankeadas + " está no nível de Lendário"
+     mensagem = "O Herói de saldo de " + saldoDeRankeadas + " está no nível Lendário"
 
 } else {
-     mensagem = "O Herói de saldo de " + saldoDeRankeadas + " está no nível de Imortal"
+     mensagem = "O Herói de saldo de " + saldoDeRankeadas + " está no nível Imortal"
 }
 console.log(mensagem)
